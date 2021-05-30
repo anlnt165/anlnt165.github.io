@@ -5,7 +5,7 @@
     PV.deriveVisualizationFromBase(symbolVis);
 
     var definition = {
-        typename: "koalabear"
+        typename: "koalabear",
         visObjectType: symbolVis,
         datasourceBehavior: PV.Extensibility.Enums.DatasoureBehaviors.Single,
         getDefaultConfig: function(){
