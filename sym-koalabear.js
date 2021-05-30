@@ -10,7 +10,7 @@
         datasourceBehavior: PV.Extensibility.Enums.DatasoureBehaviors.Single,
         getDefaultConfig: function(){
             return {
-                Height: 150
+                Height: 150,
                 Width: 150
             }
         }
